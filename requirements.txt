@@ -1,0 +1,11 @@
+torch==1.13.1
+torchvision==0.14.1
+PIL
+matplotlib
+numpy==1.24.1
+itertools
+glob
+einops
+sklearn
+functools
+inspect
