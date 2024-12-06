@@ -28,4 +28,3 @@
 
 ### To train the EBM model, please look at train_cel_clwithtime_ebm_NOIND.py script
 ### For sampling and other calclations, please look at the scripts.
-### This is a minimal script, full code will be released on github
