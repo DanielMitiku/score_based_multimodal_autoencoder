@@ -1,5 +1,6 @@
 # Score Based Multimodal Autoencoders
 > This is the code for the paper [Score Based Multimodal Autoencoders](https://openreview.net/forum?id=JbuP6UV3Fk)
+### Please refer to the official repo at https://github.com/rooshenasgroup/sbmae if you have questions.
 
 <!-- ![Model Architecture](assets/sbmae.png) -->
 <img src="./assets/sbmae.png" alt="Design" width="500"/>
