@@ -2,7 +2,7 @@
 > This is the code for the paper [Score Based Multimodal Autoencoders](https://openreview.net/forum?id=JbuP6UV3Fk)
 
 <!-- ![Model Architecture](assets/sbmae.png) -->
-<img src="./assets/sbmae.png" alt="Design" width="400"/>
+<img src="./assets/sbmae.png" alt="Design" width="500"/>
 
 
 ## Get started (Extended PolyMnist)
