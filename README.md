@@ -1,7 +1,9 @@
 # Score Based Multimodal Autoencoders
 > This is the code for the paper [Score Based Multimodal Autoencoders](https://openreview.net/forum?id=JbuP6UV3Fk)
 
-![Model Architecture](assets/sbmae.png)
+<!-- ![Model Architecture](assets/sbmae.png) -->
+<img src="./assets/sbmae.png" alt="Design" width="400"/>
+
 
 ## Get started (Extended PolyMnist)
 * Download the dataset and the FID model*
